@@ -54,4 +54,8 @@ Once training is completed, go to ClearML Dashboard and navigate to:
 
 # Results
 
-1. Final Training Accuracy : 
+1. Final Training Accuracy : 98.88%
+
+2. Final Test Accuracy : 92.33%
+
+3. Logged Metrics : Loss, Accuracy, CPU/GPU usage
